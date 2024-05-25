@@ -13,8 +13,10 @@ jobs:
       - name: Patch files
         run: ./pack.sh patch
 
+      - name: Rename out.mrpack
+        run: mv out.mrpack not-so-simply-optimized.mrpack
+
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: not-so-simply-optimized.mrpack
-          path: out.mrpack
+          path: not-so-simply-optimized.mrpack
