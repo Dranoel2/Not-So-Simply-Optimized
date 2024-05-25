@@ -17,4 +17,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: not-so-simply-optimized.mrpack
-          path: out.zip
+          path: out.mrpack
