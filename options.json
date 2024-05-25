@@ -1,0 +1,18 @@
+{
+	"upstream_version": "EMEP6pVX",
+	"user_agent": "Dranoel2/Not-So-Simply-Optimized",
+	"_comment": "The keys in extra_mods are unused.",
+	"extra_mods": {
+		"Mod Menu": "NgnZx44E",
+		"Iris Shaders": "BvVRER1H",
+		"Continuity": "hI13Vg85",
+		"Simple Voice Chat": "SW95br7b",
+		"Zoomify": "FiLFLGIB",
+		"Voice Chat Integration": "VoqoSFjv",
+		"Textile Backup": "XtGx3oB7",
+		"Fabric Language Kotlin": "afsFajDC",
+		"YetAnotherConfigLib": "rsM9VY0D"
+	},
+	"name": "Not So Simply Optimised"
+}
+
